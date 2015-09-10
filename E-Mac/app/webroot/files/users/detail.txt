@@ -1,0 +1,12 @@
+array(5) {
+  ["name"]=>
+  string(7) "testing"
+  ["email"]=>
+  string(18) "testing@maaraj.net"
+  ["rgid"]=>
+  string(28) "a;jdfk;sdfoidfds89fd98fsdf89"
+  ["device"]=>
+  string(22) "k;ladsfoadsfdas90fsdf9"
+  ["platform"]=>
+  string(14) "12321312321323"
+}

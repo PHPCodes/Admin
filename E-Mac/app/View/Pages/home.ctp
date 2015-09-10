@@ -1,0 +1,1 @@
+<?php header("Location: http://dev414.trigma.us/scopeout/admin/users/login"); ?>

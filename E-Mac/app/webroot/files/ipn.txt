@@ -1,0 +1,121 @@
+test\n <br />
+<b>Warning</b>:  get_class() expects parameter 1 to be object, resource given in <b>/home/linkedap/public_html/lib/Cake/Utility/Debugger.php</b> on line <b>574</b><br />
+<br />
+<b>Warning</b>:  get_object_vars() expects parameter 1 to be object, resource given in <b>/home/linkedap/public_html/lib/Cake/Utility/Debugger.php</b> on line <b>580</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/linkedap/public_html/lib/Cake/Utility/Debugger.php</b> on line <b>581</b><br />
+<pre class="cake-error"><a href="javascript:void(0);" onclick="document.getElementById('cakeErr517bbd20054eb-trace').style.display = (document.getElementById('cakeErr517bbd20054eb-trace').style.display == 'none' ? '' : 'none');"><b>Notice</b> (8)</a>: Undefined variable: user_id [<b>APP/Controller/TransactionsController.php</b>, line <b>120</b>]<div id="cakeErr517bbd20054eb-trace" class="cake-stack-trace" style="display: none;"><a href="javascript:void(0);" onclick="document.getElementById('cakeErr517bbd20054eb-code').style.display = (document.getElementById('cakeErr517bbd20054eb-code').style.display == 'none' ? '' : 'none')">Code</a> <a href="javascript:void(0);" onclick="document.getElementById('cakeErr517bbd20054eb-context').style.display = (document.getElementById('cakeErr517bbd20054eb-context').style.display == 'none' ? '' : 'none')">Context</a><pre id="cakeErr517bbd20054eb-code" class="cake-code-dump" style="display: none;"><code><span style="color: #000000">$this-&gt;Transaction-&gt;create();</span></code>
+<code><span style="color: #000000">$tran&nbsp;=&nbsp;array("Transaction"=&gt;array(</span></code>
+<span class="code-highlight"><code><span style="color: #000000">'user_id'=&gt;$user_id,</span></code></span></pre><pre id="cakeErr517bbd20054eb-context" class="cake-context" style="display: none;">$fc = resource
+$req = &#039;cmd=_notify-validate&amp;mc_gross=120.00&amp;protection_eligibility=Eligible&amp;address_status=confirmed&amp;payer_id=5LUH459S3FUEJ&amp;tax=0.00&amp;address_street=1+Main+St&amp;payment_date=04%3A14%3A02+Apr+27%2C+2013+PDT&amp;payment_status=Completed&amp;charset=windows-1252&amp;address_zip=95131&amp;first_name=Himanshu&amp;mc_fee=3.78&amp;address_country_code=US&amp;address_name=Himanshu+Verma&amp;notify_version=3.7&amp;custom=16&amp;payer_status=verified&amp;business=abhish_1358010839_biz%40gmail.com&amp;address_country=United+States&amp;address_city=San+Jose&amp;quantity=1&amp;verify_sign=ArVauaANkoLlrJf-9ukzaxkS6RpfAeEkiM0YQUGa-HAc08TBdO8R4FyA&amp;payer_email=himanshuv.maaraj%40gmail.com&amp;txn_id=5T205045V5904283A&amp;payment_type=instant&amp;last_name=Verma&amp;address_state=CA&amp;receiver_email=abhish_1358010839_biz%40gmail.com&amp;payment_fee=3.78&amp;receiver_id=ANG3SXXLNALMS&amp;txn_type=web_accept&amp;item_name=Organization+%2F+Company&amp;mc_currency=USD&amp;item_number=&amp;residence_country=US&amp;test_ipn=1&amp;handling_amount=0.00&amp;transaction_subject=16&amp;payment_gross=120.00&amp;shipping=0.00&amp;ipn_track_id=fcc77a86ab387&#039;
+$key = &#039;ipn_track_id&#039;
+$value = &#039;fcc77a86ab387&#039;
+$ch = object() {
+	
+}
+$res = &#039;VERIFIED&#039;
+$item_name = &#039;Organization / Company&#039;
+$item_number = &#039;&#039;
+$payment_status = &#039;Completed&#039;
+$payment_amount = &#039;120.00&#039;
+$payment_currency = &#039;USD&#039;
+$txn_id = &#039;5T205045V5904283A&#039;
+$custom_field = &#039;16&#039;
+$tran_id = array(
+	(int) 0 =&gt; &#039;16&#039;
+)
+$receiver_email = &#039;abhish_1358010839_biz@gmail.com&#039;
+$payer_email = &#039;himanshuv.maaraj@gmail.com&#039;
+$ad_id = &#039;16&#039;
+$transaction = &#039;5T205045V5904283A&#039;</pre><pre class="stack-trace">TransactionsController::ipn() - APP/Controller/TransactionsController.php, line 120
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92</pre></div></pre><br />
+<b>Warning</b>:  get_class() expects parameter 1 to be object, resource given in <b>/home/linkedap/public_html/lib/Cake/Utility/Debugger.php</b> on line <b>574</b><br />
+<br />
+<b>Warning</b>:  get_object_vars() expects parameter 1 to be object, resource given in <b>/home/linkedap/public_html/lib/Cake/Utility/Debugger.php</b> on line <b>580</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/linkedap/public_html/lib/Cake/Utility/Debugger.php</b> on line <b>581</b><br />
+<pre class="cake-error"><a href="javascript:void(0);" onclick="document.getElementById('cakeErr517bbd2006873-trace').style.display = (document.getElementById('cakeErr517bbd2006873-trace').style.display == 'none' ? '' : 'none');"><b>Notice</b> (8)</a>: Undefined variable: all_params [<b>APP/Controller/TransactionsController.php</b>, line <b>126</b>]<div id="cakeErr517bbd2006873-trace" class="cake-stack-trace" style="display: none;"><a href="javascript:void(0);" onclick="document.getElementById('cakeErr517bbd2006873-code').style.display = (document.getElementById('cakeErr517bbd2006873-code').style.display == 'none' ? '' : 'none')">Code</a> <a href="javascript:void(0);" onclick="document.getElementById('cakeErr517bbd2006873-context').style.display = (document.getElementById('cakeErr517bbd2006873-context').style.display == 'none' ? '' : 'none')">Context</a><pre id="cakeErr517bbd2006873-code" class="cake-code-dump" style="display: none;"><code><span style="color: #000000">);</span></code>
+<code><span style="color: #000000">$this-&gt;Session-&gt;write('tran_id',&nbsp;$txn_id);</span></code>
+<span class="code-highlight"><code><span style="color: #000000">$this-&gt;Session-&gt;write('all_params',&nbsp;$all_params&nbsp;);</span></code></span></pre><pre id="cakeErr517bbd2006873-context" class="cake-context" style="display: none;">$fc = resource
+$req = &#039;cmd=_notify-validate&amp;mc_gross=120.00&amp;protection_eligibility=Eligible&amp;address_status=confirmed&amp;payer_id=5LUH459S3FUEJ&amp;tax=0.00&amp;address_street=1+Main+St&amp;payment_date=04%3A14%3A02+Apr+27%2C+2013+PDT&amp;payment_status=Completed&amp;charset=windows-1252&amp;address_zip=95131&amp;first_name=Himanshu&amp;mc_fee=3.78&amp;address_country_code=US&amp;address_name=Himanshu+Verma&amp;notify_version=3.7&amp;custom=16&amp;payer_status=verified&amp;business=abhish_1358010839_biz%40gmail.com&amp;address_country=United+States&amp;address_city=San+Jose&amp;quantity=1&amp;verify_sign=ArVauaANkoLlrJf-9ukzaxkS6RpfAeEkiM0YQUGa-HAc08TBdO8R4FyA&amp;payer_email=himanshuv.maaraj%40gmail.com&amp;txn_id=5T205045V5904283A&amp;payment_type=instant&amp;last_name=Verma&amp;address_state=CA&amp;receiver_email=abhish_1358010839_biz%40gmail.com&amp;payment_fee=3.78&amp;receiver_id=ANG3SXXLNALMS&amp;txn_type=web_accept&amp;item_name=Organization+%2F+Company&amp;mc_currency=USD&amp;item_number=&amp;residence_country=US&amp;test_ipn=1&amp;handling_amount=0.00&amp;transaction_subject=16&amp;payment_gross=120.00&amp;shipping=0.00&amp;ipn_track_id=fcc77a86ab387&#039;
+$key = &#039;ipn_track_id&#039;
+$value = &#039;fcc77a86ab387&#039;
+$ch = object() {
+	
+}
+$res = &#039;VERIFIED&#039;
+$item_name = &#039;Organization / Company&#039;
+$item_number = &#039;&#039;
+$payment_status = &#039;Completed&#039;
+$payment_amount = &#039;120.00&#039;
+$payment_currency = &#039;USD&#039;
+$txn_id = &#039;5T205045V5904283A&#039;
+$custom_field = &#039;16&#039;
+$tran_id = array(
+	(int) 0 =&gt; &#039;16&#039;
+)
+$receiver_email = &#039;abhish_1358010839_biz@gmail.com&#039;
+$payer_email = &#039;himanshuv.maaraj@gmail.com&#039;
+$ad_id = &#039;16&#039;
+$transaction = &#039;5T205045V5904283A&#039;
+$tran = array(
+	&#039;Transaction&#039; =&gt; array(
+		&#039;user_id&#039; =&gt; null,
+		&#039;transaction&#039; =&gt; &#039;5T205045V5904283A&#039;,
+		&#039;status&#039; =&gt; &#039;Completed&#039;
+	)
+)</pre><pre class="stack-trace">TransactionsController::ipn() - APP/Controller/TransactionsController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92</pre></div></pre><br />
+<b>Warning</b>:  get_class() expects parameter 1 to be object, resource given in <b>/home/linkedap/public_html/lib/Cake/Utility/Debugger.php</b> on line <b>574</b><br />
+<br />
+<b>Warning</b>:  get_object_vars() expects parameter 1 to be object, resource given in <b>/home/linkedap/public_html/lib/Cake/Utility/Debugger.php</b> on line <b>580</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/linkedap/public_html/lib/Cake/Utility/Debugger.php</b> on line <b>581</b><br />
+<pre class="cake-error"><a href="javascript:void(0);" onclick="document.getElementById('cakeErr517bbd200a309-trace').style.display = (document.getElementById('cakeErr517bbd200a309-trace').style.display == 'none' ? '' : 'none');"><b>Notice</b> (8)</a>: Undefined variable: all_params [<b>APP/Controller/TransactionsController.php</b>, line <b>129</b>]<div id="cakeErr517bbd200a309-trace" class="cake-stack-trace" style="display: none;"><a href="javascript:void(0);" onclick="document.getElementById('cakeErr517bbd200a309-code').style.display = (document.getElementById('cakeErr517bbd200a309-code').style.display == 'none' ? '' : 'none')">Code</a> <a href="javascript:void(0);" onclick="document.getElementById('cakeErr517bbd200a309-context').style.display = (document.getElementById('cakeErr517bbd200a309-context').style.display == 'none' ? '' : 'none')">Context</a><pre id="cakeErr517bbd200a309-code" class="cake-code-dump" style="display: none;"><code><span style="color: #000000">$this-&gt;Session-&gt;setFlash(_('Your&nbsp;Transaction&nbsp;Successfully&nbsp;Completed.'));</span></code>
+<code><span style="color: #000000">$l&nbsp;=&nbsp;new&nbsp;CakeEmail();</span></code>
+<span class="code-highlight"><code><span style="color: #000000">$l-&gt;emailFormat('both')-&gt;subject('Academatch.com&nbsp;Transaction&nbsp;Mail')-&gt;to("abhishek.s.maaraj@gmail.com")-&gt;from('accounts@academatch.com','Academatch&nbsp;Accounts&nbsp;Department')-&gt;send($all_params);</span></code></span></pre><pre id="cakeErr517bbd200a309-context" class="cake-context" style="display: none;">$fc = resource
+$req = &#039;cmd=_notify-validate&amp;mc_gross=120.00&amp;protection_eligibility=Eligible&amp;address_status=confirmed&amp;payer_id=5LUH459S3FUEJ&amp;tax=0.00&amp;address_street=1+Main+St&amp;payment_date=04%3A14%3A02+Apr+27%2C+2013+PDT&amp;payment_status=Completed&amp;charset=windows-1252&amp;address_zip=95131&amp;first_name=Himanshu&amp;mc_fee=3.78&amp;address_country_code=US&amp;address_name=Himanshu+Verma&amp;notify_version=3.7&amp;custom=16&amp;payer_status=verified&amp;business=abhish_1358010839_biz%40gmail.com&amp;address_country=United+States&amp;address_city=San+Jose&amp;quantity=1&amp;verify_sign=ArVauaANkoLlrJf-9ukzaxkS6RpfAeEkiM0YQUGa-HAc08TBdO8R4FyA&amp;payer_email=himanshuv.maaraj%40gmail.com&amp;txn_id=5T205045V5904283A&amp;payment_type=instant&amp;last_name=Verma&amp;address_state=CA&amp;receiver_email=abhish_1358010839_biz%40gmail.com&amp;payment_fee=3.78&amp;receiver_id=ANG3SXXLNALMS&amp;txn_type=web_accept&amp;item_name=Organization+%2F+Company&amp;mc_currency=USD&amp;item_number=&amp;residence_country=US&amp;test_ipn=1&amp;handling_amount=0.00&amp;transaction_subject=16&amp;payment_gross=120.00&amp;shipping=0.00&amp;ipn_track_id=fcc77a86ab387&#039;
+$key = &#039;ipn_track_id&#039;
+$value = &#039;fcc77a86ab387&#039;
+$ch = object() {
+	
+}
+$res = &#039;VERIFIED&#039;
+$item_name = &#039;Organization / Company&#039;
+$item_number = &#039;&#039;
+$payment_status = &#039;Completed&#039;
+$payment_amount = &#039;120.00&#039;
+$payment_currency = &#039;USD&#039;
+$txn_id = &#039;5T205045V5904283A&#039;
+$custom_field = &#039;16&#039;
+$tran_id = array(
+	(int) 0 =&gt; &#039;16&#039;
+)
+$receiver_email = &#039;abhish_1358010839_biz@gmail.com&#039;
+$payer_email = &#039;himanshuv.maaraj@gmail.com&#039;
+$ad_id = &#039;16&#039;
+$transaction = &#039;5T205045V5904283A&#039;
+$tran = array(
+	&#039;Transaction&#039; =&gt; array(
+		&#039;user_id&#039; =&gt; null,
+		&#039;transaction&#039; =&gt; &#039;5T205045V5904283A&#039;,
+		&#039;status&#039; =&gt; &#039;Completed&#039;
+	)
+)
+$l = object(CakeEmail) {
+	charset =&gt; &#039;UTF-8&#039;
+	headerCharset =&gt; &#039;UTF-8&#039;
+}</pre><pre class="stack-trace">TransactionsController::ipn() - APP/Controller/TransactionsController.php, line 129
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 485
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 161
+[main] - APP/webroot/index.php, line 92</pre></div></pre>hell

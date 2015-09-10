@@ -1,0 +1,385 @@
+/* Flexnav Base Styles */
+
+.flexnav {
+  -webkit-transition: none;
+  -moz-transition: none;
+  -ms-transition: none;
+  transition: none;
+  -webkit-transform-style: preserve-3d;
+  overflow: hidden;
+  margin: 0 auto;
+  width:100%;
+  max-height: 0;
+float:left;
+ }
+  .flexnav.opacity {
+    opacity: 0; }
+  .flexnav.flexnav-show {
+    max-height: 2000px;
+    opacity: 1;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out; }
+  .flexnav.one-page {
+    position: fixed;
+    top: 50px;
+    right: 5%;
+    max-width: 200px; }
+  .flexnav li {
+    font-size: 100%;
+    position: relative;
+    overflow: hidden; }
+	
+  .flexnav li a {
+    position: relative;
+    display: block;
+     padding:13px 22px 15px 19px;
+    z-index: 100;
+    overflow: hidden;
+    color: #ffffff !important;
+    background: #446eb6;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15); 
+	}
+	
+  .flexnav li ul {
+    width: 100%; 
+	padding:0;
+	margin:0;}
+    
+  .flexnav li ul.flexnav-show li {
+    overflow: visible; 
+	}
+  .flexnav li ul li a {
+    display: block;
+    background: #244276;
+	padding:0px;
+	color: #e3e3e3 !important;	
+	}
+  .flexnav ul li ul li a {
+    background: #ce0000;
+    color: #fff;	}
+  .flexnav ul li ul li ul li a {
+    background: #cbcbc9;
+    color: #fff;	}
+  .flexnav .touch-button {
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    right: 0;
+    width:25px;
+    height: 25px;
+    display: inline-block;
+    text-align: center; }
+    .flexnav .touch-button:hover {
+      cursor: pointer; }
+    .flexnav .touch-button .navicon {
+      position: relative;
+      top:7px !important;
+      font-size: 12px;
+      color: #fff !important;
+	  }
+
+.menu-button {
+ background: none repeat scroll 0 0 #446eb6;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    padding: 13px 0;
+    position: relative;
+    text-indent: 10px;}
+  .menu-button.one-page {
+    position: fixed;
+    top: 0;
+    right: 5%;
+    padding-right: 45px; }
+  .menu-button .touch-button {
+    background: transparent;
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    text-align: center; }
+    .menu-button .touch-button .navicon {
+      font-size: 16px;
+      position: relative;
+      top: 1em;
+      color: #fff; }
+	  
+	
+.flexnav li ul li a:hover
+{
+color:#fff!important;
+}
+.flexnav li a:hover
+{
+color:#fff;
+background:#244276;
+}
+.flexnav li:hover > a{
+	background:#244276;
+}
+
+
+	
+
+
+
+
+@media screen and (min-width:810px) {
+  body.one-page {
+    padding-top: 70px; }
+	.flexnav li ul li {
+      font-size:14px;
+      position: relative;
+      overflow: hidden;
+	  margin:0px 10px 0px 10px;
+	padding:10px 0px 5px 8px;
+	  border-bottom:dotted 1px #cdcecf;
+ 	  }
+.flexnav .touch-button .navicon {
+      position: relative;
+      top:12px !important;
+      font-size: 12px;
+      color: #666; }
+  .flexnav {
+    overflow: visible; }
+    .flexnav.opacity {
+      opacity: 1; }
+    .flexnav.one-page {
+      top: 0;
+      right: auto;
+      max-width: 1080px; }
+    .flexnav li {
+      position: relative;
+      list-style: none;
+      float: left;
+      display: block;      
+      overflow: visible;
+      width:auto;
+	  z-index:9999;	  }
+    .flexnav li a {
+      border-bottom: none; 
+	  font-size:15px;
+	  color:#666666;
+	  text-decoration:none;
+	 
+	  }
+	  
+    .flexnav li > ul {
+      position: absolute;
+      top: auto;
+      left: -1px;
+      width:365px;
+padding:0 0px 20px 0px;
+margin:0 0px 0px 0px;
+font-size:14px;
+background:#244276;	
+	border-right:solid 1px #e8e8e8;
+	border-left:solid 1px #e8e8e8;
+	border-bottom:solid 1px #e8e8e8;
+	float:left;
+	  }
+      .flexnav li > ul li {
+        width:40%; 
+		float:left;}
+    .flexnav li ul li > ul {
+      margin-left: 100%;
+      top: 0; }
+    .flexnav li ul li a {
+      border-bottom: none; }
+    .flexnav li ul.open {
+      display: block;
+      opacity: 1;
+      visibility: visible;
+      z-index: 1; }
+      .flexnav li ul.open li {
+        overflow: visible;
+        max-height: 100px; }
+      .flexnav li ul.open ul.open {
+        margin-left: 100%;
+        top: 0; }
+
+
+  .menu-button {
+    display: none; } 
+.oldie body.one-page {
+  padding-top: 70px; }
+.oldie .flexnav {
+  overflow: visible; }
+  .oldie .flexnav.one-page {
+    top: 0;
+    right: auto;
+    max-width: 1080px; }
+  .oldie .flexnav li {
+    position: relative;
+    list-style: none;
+    float: left;
+    display: block;
+    background-color: #a6a6a2;
+    width: 20%;
+    min-height: 50px;
+    overflow: visible; }
+  .oldie .flexnav li:hover > ul {
+    display: block;
+    width: 100%;
+    overflow: visible; }
+    .oldie .flexnav li:hover > ul li {
+      width: 100%;
+      float: none; }
+  .oldie .flexnav li a {
+    border-left: 1px solid #acaca1;
+    border-bottom: none;
+    overflow: visible; }
+  .oldie .flexnav li > ul {
+    background: #acaca1;
+    position: absolute;
+    top: auto;
+    left: 0;
+    display: none;
+    z-index: 1;
+    overflow: visible; }
+  .oldie .flexnav li ul li ul {
+    top: 0; }
+  .oldie .flexnav li ul li a {
+    border-bottom: none; }
+  .oldie .flexnav li ul.open {
+    display: block;
+    width: 100%;
+    overflow: visible; }
+    .oldie .flexnav li ul.open li {
+      width: 100%; }
+    .oldie .flexnav li ul.open ul.open {
+      margin-left: 100%;
+      top: 0;
+      display: block;
+      width: 100%;
+      overflow: visible; }
+  .oldie .flexnav ul li:hover ul {
+    margin-left: 100%;
+    top: 0; }
+.oldie .menu-button {
+  display: none; }
+.oldie.ie7 .flexnav li {
+  width: 19.9%; 
+  }
+  }
+  
+@media screen and (max-width:1130px) {	
+	.flexnav li a {
+    padding:13px 22px 15px 13px;    
+	}
+	}
+	
+@media screen and (max-width:940px) {	
+	.flexnav li a {
+    padding:13px 22px 15px 8px;    
+	}
+	}
+@media screen and (min-width:900px) and (max-width:855px) {	
+	.flexnav li a {
+    padding:13px 18px 15px 4px;
+	font-size:15px;
+	}
+	}
+  @media screen and (min-width:855px) and (max-width:768px) {	
+	.flexnav li a {
+    font-size:14px;
+	}
+	}
+
+@media screen and (max-width:954px) {
+
+.flexnav {
+    padding: 0 0 20px;
+    transition: none 0s ease 0s;
+    width: auto;
+
+}
+.nav:before, .nav:after {
+    content: " ";
+    display: table;
+}
+.nav:after {
+    clear: both;
+}
+
+}  
+
+  @media screen and (max-width:1065px) { 
+  .flexnav li a {
+    font-size:14px;
+    padding: 13px 20px 15px 12px;
+	}
+    
+}
+
+@media screen and (max-width:980px) { 
+  .flexnav li a {
+    font-size:13px;
+    padding: 13px 20px 15px 10px;
+	}
+   
+ }
+ @media screen and (max-width:920px) { 
+  .flexnav li a {
+    font-size:13px;
+    padding: 13px 20px 15px 5px;
+	}
+   
+ }
+ @media screen and (max-width:860px) { 
+  .flexnav li a {
+    font-size:12px;
+    padding: 13px 19px 15px 5px;
+	}
+  
+  
+ }
+
+
+@media screen and (max-width:810px) {
+   .flexnav li a {
+ background:#2c2828;
+ text-decoration:none;
+     padding: 9px 25px 9px 0.6em;
+	 font-size: 14px;
+	 }
+	  .flexnav li ul li a {
+    background: none repeat scroll 0 0 #3d3b3b;
+}
+.flexnav ul li ul li a {
+    background: none repeat scroll 0 0 #4c4949;
+}
+
+.flexnav .touch-button {
+    background: none repeat scroll 0 0 #322f2f;
+    height: 36px;
+    width: 43px;
+}
+
+.flexnav li ul li a {
+    background: none repeat scroll 0 0 #3D3B3B;
+    border-bottom: 1px solid #2b2828;
+	 text-indent: 20px;
+}
+.flexnav li ul li a {
+    padding: 9px 0;
+}
+.flexnav ul li ul li a {
+    text-indent: 30px;
+}
+.flexnav {
+  width:100%;
+float:left;
+clear:both;
+padding: 0 0 0px;  }
+
+}
+.menu-button {
+	clear:both;
+}

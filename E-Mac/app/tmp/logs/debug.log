@@ -1,0 +1,948 @@
+2014-04-28 16:21:54 Notice: Notice (8): Undefined variable: response in [/var/www/html/abhishek/musicapp/app/View/Users/add.ctp, line 6]
+Trace:
+include - APP/View/Users/add.ctp, line 6
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 948
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:09:43 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:09:43 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:11:46 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:11:46 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:12:06 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:12:06 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:15:08 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:15:08 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:15:32 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:15:32 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:15:38 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:15:38 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:16:45 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:16:45 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:17:04 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:17:04 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:18:08 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:18:08 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:18:29 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:18:29 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:19:21 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:19:21 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:20:43 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:20:43 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:23:36 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:23:36 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:23:49 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:23:49 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:24:23 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:24:23 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:24:54 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:24:54 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:42:39 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:42:39 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:43:30 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:43:30 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:45:15 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 578]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 578
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 18:45:15 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 579]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 579
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-28 20:38:43 Notice: Notice (8): Undefined variable: value in [/var/www/html/abhishek/musicapp/app/View/Users/admin_dashboard.ctp, line 73]
+Trace:
+include - APP/View/Users/admin_dashboard.ctp, line 73
+View::_evaluate() - CORE/Cake/View/View.php, line 945
+View::_render() - CORE/Cake/View/View.php, line 907
+View::render() - CORE/Cake/View/View.php, line 471
+Controller::render() - CORE/Cake/Controller/Controller.php, line 948
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 19:37:10 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 591]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 591
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 19:37:10 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 592]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 592
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 19:40:01 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 19:40:33 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 19:41:04 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 19:43:55 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 19:44:13 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 19:45:04 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 19:46:10 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 19:46:58 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:05:04 Notice: Notice (8): Undefined index: username in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:05:04 Notice: Notice (8): Undefined index: password in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 555]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 555
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:16:46 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 556]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 556
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:16:46 Notice: Notice (8): Undefined variable: x in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 558]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 558
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:19:06 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 557]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 557
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:19:06 Notice: Notice (8): Undefined variable: x in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 559]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 559
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:19:12 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 557]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 557
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:19:12 Notice: Notice (8): Undefined variable: x in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 559]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 559
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:19:29 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 557]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 557
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:19:29 Notice: Notice (8): Undefined variable: x in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 559]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 559
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:23:07 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:23:07 Notice: Notice (8): Undefined variable: x in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 556]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 556
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:24:26 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:24:26 Notice: Notice (8): Undefined variable: x in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 556]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 556
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:25:17 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:25:17 Notice: Notice (8): Undefined variable: x in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 556]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 556
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:26:02 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:26:02 Notice: Notice (8): Undefined variable: x in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 556]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 556
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:29:23 Notice: Notice (8): Undefined variable: x in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 559]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 559
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:29:41 Notice: Notice (8): Undefined variable: x in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 559]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 559
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:29:59 Notice: Notice (8): Undefined variable: x in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 558]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 558
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:30:10 Notice: Notice (8): Undefined variable: x in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 558]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 558
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:30:12 Notice: Notice (8): Undefined variable: x in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 558]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 558
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:40:00 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 556]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 556
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:40:44 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 556]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 556
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:41:10 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 556]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 556
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:41:53 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 606]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 606
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:41:53 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 607]
+Trace:
+UsersController::add() - APP/Controller/UsersController.php, line 607
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:43:58 Notice: Notice (8): Undefined index: username in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:43:58 Notice: Notice (8): Undefined index: password in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 555]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 555
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:46:07 Notice: Notice (8): Undefined index: username in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:46:07 Notice: Notice (8): Undefined index: password in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 555]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 555
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:50:39 Notice: Notice (8): Undefined index: username in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:50:39 Notice: Notice (8): Undefined index: password in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 555]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 555
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:50:48 Notice: Notice (8): Undefined index: username in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 554]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 20:50:48 Notice: Notice (8): Undefined index: password in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 555]
+Trace:
+UsersController::mobileuserlogin() - APP/Controller/UsersController.php, line 555
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 21:22:12 Notice: Notice (8): Indirect modification of overloaded property UsersController::$data has no effect in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 662]
+Trace:
+UsersController::forgot() - APP/Controller/UsersController.php, line 662
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 21:22:39 Notice: Notice (8): Indirect modification of overloaded property UsersController::$data has no effect in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 662]
+Trace:
+UsersController::forgot() - APP/Controller/UsersController.php, line 662
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 21:23:06 Notice: Notice (8): Indirect modification of overloaded property UsersController::$data has no effect in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 662]
+Trace:
+UsersController::forgot() - APP/Controller/UsersController.php, line 662
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 21:23:17 Notice: Notice (8): Indirect modification of overloaded property UsersController::$data has no effect in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 662]
+Trace:
+UsersController::forgot() - APP/Controller/UsersController.php, line 662
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 21:23:30 Notice: Notice (8): Undefined index: email in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 662]
+Trace:
+UsersController::forgot() - APP/Controller/UsersController.php, line 662
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 21:23:30 Notice: Notice (8): Indirect modification of overloaded property UsersController::$data has no effect in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 662]
+Trace:
+UsersController::forgot() - APP/Controller/UsersController.php, line 662
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 21:25:45 Notice: Notice (8): Undefined index: username in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 662]
+Trace:
+UsersController::forgot() - APP/Controller/UsersController.php, line 662
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 21:25:45 Notice: Notice (8): Indirect modification of overloaded property UsersController::$data has no effect in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 662]
+Trace:
+UsersController::forgot() - APP/Controller/UsersController.php, line 662
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-29 21:25:45 Notice: Notice (8): Undefined index: User in [/var/www/html/abhishek/musicapp/app/Controller/UsersController.php, line 663]
+Trace:
+UsersController::forgot() - APP/Controller/UsersController.php, line 663
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-04-30 00:16:46 Notice: Notice (8): Use of undefined constant ‘RequestHandler’ - assumed '‘RequestHandler’' in [/var/www/html/abhishek/musicapp/lib/Cake/Routing/Dispatcher.php, line 239]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE/Cake/Routing/Dispatcher.php, line 239
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 153
+[main] - APP/webroot/index.php, line 92
+
+2014-04-30 00:16:49 Notice: Notice (8): Use of undefined constant ‘RequestHandler’ - assumed '‘RequestHandler’' in [/var/www/html/abhishek/musicapp/lib/Cake/Routing/Dispatcher.php, line 239]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE/Cake/Routing/Dispatcher.php, line 239
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 153
+[main] - APP/webroot/index.php, line 92
+
+2014-04-30 15:51:51 Notice: Notice (8): Use of undefined constant ‘RequestHandler’ - assumed '‘RequestHandler’' in [/var/www/html/abhishek/musicapp/lib/Cake/Routing/Dispatcher.php, line 239]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE/Cake/Routing/Dispatcher.php, line 239
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 153
+[main] - APP/webroot/index.php, line 92
+
+2014-04-30 15:51:53 Notice: Notice (8): Use of undefined constant ‘RequestHandler’ - assumed '‘RequestHandler’' in [/var/www/html/abhishek/musicapp/lib/Cake/Routing/Dispatcher.php, line 239]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE/Cake/Routing/Dispatcher.php, line 239
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 153
+[main] - APP/webroot/index.php, line 92
+
+2014-04-30 15:54:54 Notice: Notice (8): Use of undefined constant ‘RequestHandler’ - assumed '‘RequestHandler’' in [/var/www/html/abhishek/musicapp/lib/Cake/Routing/Dispatcher.php, line 239]
+Trace:
+ReflectionClass::newInstance() - [internal], line ??
+Dispatcher::_getController() - CORE/Cake/Routing/Dispatcher.php, line 239
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 153
+[main] - APP/webroot/index.php, line 92
+
+2014-05-06 23:17:30 Notice: Notice (8): Undefined variable: song in [/var/www/html/abhishek/musicapp/app/Controller/SongsController.php, line 159]
+Trace:
+SongsController::admin_index() - APP/Controller/SongsController.php, line 159
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-05-06 23:17:34 Notice: Notice (8): Undefined variable: song in [/var/www/html/abhishek/musicapp/app/Controller/SongsController.php, line 159]
+Trace:
+SongsController::admin_index() - APP/Controller/SongsController.php, line 159
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-05-06 23:51:59 Notice: Notice (8): Undefined variable: song in [/var/www/html/abhishek/musicapp/app/Controller/SongsController.php, line 159]
+Trace:
+SongsController::admin_index() - APP/Controller/SongsController.php, line 159
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-05-08 17:17:46 Notice: Notice (8): Undefined variable: listing in [/var/www/html/abhishek/musicapp/app/Controller/SongsController.php, line 554]
+Trace:
+SongsController::recentlyadded() - APP/Controller/SongsController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-05-08 17:17:52 Notice: Notice (8): Undefined variable: listing in [/var/www/html/abhishek/musicapp/app/Controller/SongsController.php, line 554]
+Trace:
+SongsController::recentlyadded() - APP/Controller/SongsController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+
+2014-05-08 17:17:57 Notice: Notice (8): Undefined variable: listing in [/var/www/html/abhishek/musicapp/app/Controller/SongsController.php, line 554]
+Trace:
+SongsController::recentlyadded() - APP/Controller/SongsController.php, line 554
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 486
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 187
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 92
+

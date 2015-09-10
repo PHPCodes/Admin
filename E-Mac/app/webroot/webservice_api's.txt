@@ -1,0 +1,103 @@
+﻿
+1 .Student Sign Up :
+
+URL: http://dev414.trigma.us/Crowd-Career/Webservices/student_signup?display_name=gurudutt1&image=profileimage2.png&email=gurudutt.sharma@trigma.in&college=abc®ister_type=manual&password=123456&contact=123
+
+
+2. Employer Sign Up :
+
+URL : http://dev414.trigma.us/Crowd-Career/Webservices/employer_signup?company_name=trigma&image=profileimage3.png&email=guru123.sharma@trigma.in®ister_type=manual&password=123456&contact=1234543554&category_id=2&description=ghghghg
+
+
+3. Login :
+
+URL : http://dev414.trigma.us/Crowd-Career/Webservices/login?email=gurudutt.sharma@trigma.in&password=123456
+
+
+4.Forgot Password 	
+
+URL :http://dev414.trigma.us/Crowd-Career/Webservices/forgot?email=gurudutt.sharma@trigma.in
+
+
+5. Reset Password by click on email link:
+
+URL:	http://dev414.trigma.us/Crowd-Career/Webservices/reset?email=gurudutt.sharma@trigma.in
+
+
+6. Change Password : 
+
+URL: http://dev414.trigma.us/Crowd-Career/webservices/changepass?email=gurudutt.sharma@trigma.in&opass=123456&cpass=gurudutt&newpass=gurudutt
+
+
+7. My Profile :
+
+URL :http://dev414.trigma.us/Crowd-Career/webservices/myProfile?id=207
+
+
+
+
+
+8. Edit Profile
+
+URL:	http://dev414.trigma.us/Crowd-Career/webservices/profile_edit?id=207&username=guru&first_name=sharma&profile_image=images.png&contact=9546356
+
+
+9. Categories Listing :
+
+URL :http://dev414.trigma.us/Crowd-Career/Webservices/topics
+
+
+10. Students Listing 	
+
+URL :http://dev414.trigma.us/Crowd-Career/Webservices/student_list
+
+
+11. Companies Listing 	
+
+URL : http://dev414.trigma.us/Crowd-Career/Webservices/companies_list?category_id=2
+
+
+12. Student Followers 	
+
+URL :http://dev414.trigma.us/Crowd-Career/Webservices/student_followers?user_id=2260&follower_id=3236&user_types_id=7
+
+
+
+
+13. Employer Followers 
+
+URL :	http://dev414.trigma.us/Crowd-Career/Webservices/employer_follower?user_id=2260&follower_id=3236&user_types_id=7
+
+
+14. Student Unfollow 	
+
+URL :http://dev414.trigma.us/Crowd-Career/Webservices/student_unfollow?user_id=2260&follower_id=3236
+
+
+15. Employer Unfollow 	
+
+URL :http://dev414.trigma.us/Crowd-Career/Webservices/employer_unfollow?user_id=2260&follower_id=3236
+
+
+
+
+16. Company connection with students 	
+
+URL :http://dev414.trigma.us/Crowd-Career/Webservices/company_connection_student?user_id=2260
+
+
+17. Company connection with company 	
+
+URL:http://dev414.trigma.us/Crowd-Career/Webservices/company_connection_company?user_id=2260
+
+
+18 .Company Profile 	
+
+URL :http://dev414.trigma.us/Crowd-Career/Webservices/company_profile?user_id=2260
+
+
+19 .Student Profile 	
+
+URL :http://dev414.trigma.us/Crowd-Career/Webservices/student_profile?user_id=2260
+
+
